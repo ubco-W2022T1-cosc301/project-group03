@@ -1,4 +1,4 @@
-# Group YYY - {Short snappy Title of your project}
+# Group 03 - Football Passion: A necessity or a sign of psychopathy?
 
 **Please remember to update this section**
 
@@ -12,7 +12,7 @@ Details for Milestone are available on Canvas (left sidebar, Course Project).
 
 **Please remember to update this section**
 
-{Add your stuff here}
+This project was initially drafted with the goal of utilizing the dynamics of psychology to interpret the psychosocial behaviors seen within various sports. The goal was to qualitatively analyze behaviors, cultures, or traditions within sports as a measure to interpret some of the constructs of sports patriotism. Within the NFL, the influence of fan culture is prevalent within college and national football teams as mascots, traditions, and fan participation are distinctly characterized as a symbol of team brand. Despite the comradery, sportsmanship, and goodwill encouraged by international sports committees, NFL matchdays are known to have instances of fans becoming violent (Gambrell, 2015). With a dataset that highlights arrests made during NFL matchdays (2011-2015), we can interpret the demographic of NFL team fanbases, matchday team performance, and stadium atmospheres to understand how psychological concepts such as groupthink, frustration from losing, or enemy complex may influence a fan’s disorderly conduct. 
 
 ## Describe your dataset in about 150-200 words
 
@@ -24,9 +24,9 @@ Details for Milestone are available on Canvas (left sidebar, Course Project).
 
 **Please remember to update this section**
 
-- Person 1: one sentence about you!
-- Person 2: one sentence about you!
-- Person 3: one sentence about you!
+- Sarim Faheem: Massive sports fan (data reviewer for EA/Borussia Dortmund) and advocate for EDI research within health sciences!
+- Nikita Chandra Lazarus: one sentence about you!
+- Omar Kandeel: one sentence about you!
 
 ## Images
 
@@ -36,11 +36,13 @@ Details for Milestone are available on Canvas (left sidebar, Course Project).
 
 <img src ="images/test.png" width="100px">
 
-## References
+### References
+---
+Gambrell, E. R. (2015). Football, Flags, and Flyovers: American Nationalism and the Violent Spectacle of the NFL.
 
 **Please remember to update this section**
 
-{Add your credits, acknowledgements, references, or citations **including a link to the data source** here}
-
-
+### Acknowledgements
+---
+The following dataset **(CC BY-NC-SA 4.0)** is a copy of an original dataset that was collected, uploaded, and reported by Kent Babb and Steven Rich of the Washington Post. The original dataset can be found [here.](https://github.com/washingtonpost/data-nfl-arrests)
 
