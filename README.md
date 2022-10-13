@@ -18,7 +18,7 @@ This project was initially drafted with the goal of utilizing the dynamics of ps
 
 **Please remember to update this section**
 
-{Add your stuff here}
+The dataset utilized for this analysis was initially recorded within police records and consists of quantitative information that was requested by Kent Babb and Steven Rich of the Washington Post regarding arrest records for spectators and fans at NFL stadiums. Data was made available for all teams except for Cleveland and New Orleans who refused to participate. Beyond this, parking lot arrests and corresponding data was made unavailable by Detroit, Minneapolis, and Atlanta. Buffalo, Miami, and Oakland provided partial arrest data figures only. The data spans across the 2011-2015 NFL seasons and includes various variables regarding the settings where arrests took place. This includes the number of arrests that took place during the game, the season or corresponding year that the game took place in, the time that arrests took place at, the teams playing during the game (including which team was home or away), the final score line, and attributed data for whether the games were played in overtime or against division teams (added rivalry).   
 
 ## Team Members
 
