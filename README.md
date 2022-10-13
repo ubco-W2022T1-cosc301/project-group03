@@ -25,7 +25,7 @@ The dataset utilized for this analysis was initially recorded within police reco
 **Please remember to update this section**
 
 - Sarim Faheem: Massive sports fan (data reviewer for EA/Borussia Dortmund) and advocate for EDI research within health sciences!
-- Nikita Chandra Lazarus: one sentence about you!
+- Nikita Chandra Lazarus: A Psychology student who likes to learn about the human minds.
 - Omar Kandeel: one sentence about you!
 
 ## Images
