@@ -16,6 +16,7 @@ def load_and_process(path_to_csv):
                         'arrests':'Arrests', 'season':'Season'},inplace = True)
     
     #Method Chain 2 converting NaN variables to 0 int values.
-    finaldf = loaddf['Arrests'] = loaddf['Arrests'].fillna(0)
-    return (loaddf)
+    finaldf = loaddf
+    finaldf['Arrests'] = finaldf['Arrests'].fillna(0)
+    return (finaldf)
     
