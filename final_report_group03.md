@@ -17,7 +17,7 @@ AND
 2. Is committing crimes correlated with specific stadiums and/or teams? (Geographical/team-cultural influence)
 
 Our EDA presented intriguing measures and details regarding the dataset. One such metric looked at sorting pertaining to the dataset by observing the average number of arrests for the first 100 datapoints. 
-![Figure 1. Average number of arrests during the week for first 100 datapoints](images\\EDA1analysis3.png) 
+![Figure 1. Average number of arrests during the week for first 100 datapoints](https://github.com/ubco-W2022T1-cosc301/project-group03/blob/main/images/EDA1analysis3.png) 
 
 Since there was no saturday games listed as seen in the figure, we were aware that sorting was done by days of the week and required reformatting to account for Saturday games. This meant reformatting of the dataset sorting was necessary (in our case, by season and THEN day of week). We also sorted data to remove all NaN values by converting them to 0.
 
