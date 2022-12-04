@@ -43,7 +43,7 @@ One of the research questions asked which team had the "rowdiest" crowds leading
 
 Firstly let's take a look at the average arrests made for each team as a home team.
 
-![alt text for screen readers](./images/HomeArrests.png "Home arrests made")
+![alt text for screen readers](./images/HomeArrests.png)
 
 As we can see, San Diego is the team with the rowdiest fans when they are playing at their home stadium, sitting at a total of 80 arrests made through out the 2011-2015 NFL seasons.
 
